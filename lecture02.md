@@ -1,4 +1,4 @@
-# AWACOURSE 第二回講義
+# AWS COURSE 第二回講義
 ## gitについて
 
 - バージョン管理システム
